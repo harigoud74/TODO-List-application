@@ -1,2 +1,3 @@
-# spotify-clone
-clone of the spotify 
+# TODO List application
+A personal TODO application that can help in our daily life
+
